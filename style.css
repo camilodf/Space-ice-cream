@@ -204,7 +204,7 @@ main p {
     display: flex;
 
     max-height: 100vh;
-    max-width: 128rem;
+    max-width: 100%;
   }
 
   header {
